@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Pytest cache
+.cache/
+*.egg-info/
+
+# Miscellaneous
+*.log
+*.sqlite3
+*.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
